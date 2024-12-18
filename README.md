@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.17
+## Updated on 2024.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047](http://arxiv.org/abs/2412.13047)|null|
+|**2024-12-17**|**Optimize the Unseen -- Fast NeRF Cleanup with Free Space Prior**|Leo Segre et.al.|[2412.12772](http://arxiv.org/abs/2412.12772)|null|
+|**2024-12-17**|**Towards a Training Free Approach for 3D Scene Editing**|Vivek Madhavaram et.al.|[2412.12766](http://arxiv.org/abs/2412.12766)|null|
 |**2024-12-16**|**GS-ProCams: Gaussian Splatting-based Projector-Camera Systems**|Qingyue Deng et.al.|[2412.11762](http://arxiv.org/abs/2412.11762)|null|
 |**2024-12-16**|**Sequence Matters: Harnessing Video Models in Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525](http://arxiv.org/abs/2412.11525)|null|
 |**2024-12-16**|**VRVVC: Variable-Rate NeRF-Based Volumetric Video Compression**|Qiang Hu et.al.|[2412.11362](http://arxiv.org/abs/2412.11362)|null|
@@ -603,7 +606,7 @@
 |**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063](http://arxiv.org/abs/2403.02063)|null|
 |**2024-03-02**|**NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**|Linsheng Chen et.al.|[2403.01325](http://arxiv.org/abs/2403.01325)|**[link](https://github.com/freedomcls/nerf-vpt)**|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
