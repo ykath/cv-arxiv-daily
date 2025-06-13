@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,9 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**|Haoru Wang et.al.|[2506.09885](http://arxiv.org/abs/2506.09885)|null|
 |**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619](http://arxiv.org/abs/2506.08619)|null|
 |**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|null|
-|**2025-06-09**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
+|**2025-06-11**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
 |**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890](http://arxiv.org/abs/2506.06890)|null|
 |**2025-06-06**|**Splat and Replace: 3D Reconstruction with Repetitive Elements**|Nicolás Violante et.al.|[2506.06462](http://arxiv.org/abs/2506.06462)|null|
 |**2025-06-06**|**NeurNCD: Novel Class Discovery via Implicit Neural Representation**|Junming Wang et.al.|[2506.06412](http://arxiv.org/abs/2506.06412)|null|
@@ -830,7 +831,7 @@
 |**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063](http://arxiv.org/abs/2403.02063)|null|
 |**2024-03-02**|**NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**|Linsheng Chen et.al.|[2403.01325](http://arxiv.org/abs/2403.01325)|**[link](https://github.com/freedomcls/nerf-vpt)**|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
